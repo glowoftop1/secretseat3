@@ -1,0 +1,6 @@
+{
+  "name": "비밀의 자리 배치 (Secret Seat)",
+  "description": "교실 환경에 맞춘 스마트하고 비밀스러운 자리 배치 도구. 시크릿 모드를 통해 학생 간 관계를 고려한 완벽한 배치가 가능합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
